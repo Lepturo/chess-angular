@@ -1,0 +1,10 @@
+$board-cell-count: 8;
+$-board-length: 80vh;
+$board-width: $-board-length;
+$board-height: $-board-length;
+
+$cell-width: calc($board-width/$board-cell-count);
+$cell-height: calc($board-height/$board-cell-count);
+
+$piece-width: calc($cell-width * 0.7);
+$piece-height: calc($cell-height * 0.7);

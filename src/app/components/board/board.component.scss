@@ -1,0 +1,28 @@
+@import "@assets/constants.scss";
+
+.board {
+    display: grid;
+    grid-template-columns: repeat($board-cell-count, auto);
+    height: $board-height;
+    width: $board-width;
+    border: 5px solid black;
+    justify-content: center;
+    align-items: center;
+
+
+    &_cell {
+        height: $cell-height;
+        width: $cell-width;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+        &_bg_1 {
+            background-color: #b3856a;
+        }
+
+        &_bg_2 {
+            background-color: #eddbc5;
+        }
+    }
+}

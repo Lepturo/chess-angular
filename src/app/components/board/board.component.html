@@ -1,0 +1,8 @@
+<div class="board">
+    @for(cell of BOARD_TEST; track cell) {
+        <!-- TODO: remove class and just use ngClass -->
+        <div class="board_cell" [ngClass]="cell.color === 'bg_1' ? 'board_cell_bg_1' : 'board_cell_bg_2'">
+            <div>{{cell.x * 8 + cell.y}}</div>
+        </div>
+    }
+</div>
