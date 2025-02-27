@@ -7,23 +7,25 @@ Each Board has saves the state of each cell of the board and has a optional opti
 
 The structure is the following:
 
-> {
->     "cells": [
->       {
->         "name": "a1",
->         "piece": {
->           "type": "rook",
->           "color": "white"
->         }
->       },
->       {
->         "name": "b1",
->         "piece": {
->           "type": "knight",
->           "color": "white"
->         }
->       },
->       ...]
-> }
+```json
+{
+    "cells": [
+      {
+        "name": "a1",
+        "piece": {
+          "type": "rook",
+          "color": "white"
+        }
+      },
+      {
+        "name": "b1",
+        "piece": {
+          "type": "knight",
+          "color": "white"
+        }
+      },
+      ...]
+}
+```
 
 Other Options can be easily added later.

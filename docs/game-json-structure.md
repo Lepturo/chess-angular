@@ -7,11 +7,13 @@ Each game references a `board.json` file, which stores the current state of the 
 
 The structure is the following:
 
-> {
->     "state": {
->         "board": "board-placeholder",
->         "turn": "white"  
->     }
-> }
+```json
+{
+    "state": {
+        "board": "board-placeholder",
+        "turn": "white"  
+    }
+}
+```
 
 Other options can be easily added later.
