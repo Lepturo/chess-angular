@@ -1,0 +1,229 @@
+{
+    "cells": [
+      {
+        "name": "a8",
+        "piece": {
+          "type": "rook",
+          "color": "black"
+        }
+      },
+      {
+        "name": "b8",
+        "piece": {
+          "type": "knight",
+          "color": "black"
+        }
+      },
+      {
+        "name": "c8",
+        "piece": {
+          "type": "bishop",
+          "color": "black"
+        }
+      },
+      {
+        "name": "d8",
+        "piece": {
+          "type": "queen",
+          "color": "black"
+        }
+      },
+      {
+        "name": "e8",
+        "piece": {
+          "type": "king",
+          "color": "black"
+        }
+      },
+      {
+        "name": "f8",
+        "piece": {
+          "type": "bishop",
+          "color": "black"
+        }
+      },
+      {
+        "name": "g8",
+        "piece": {
+          "type": "knight",
+          "color": "black"
+        }
+      },
+      {
+        "name": "h8",
+        "piece": {
+          "type": "rook",
+          "color": "black"
+        }
+      },
+      {
+        "name": "a7",
+        "piece": {
+          "type": "pawn",
+          "color": "black"
+        }
+      },
+      {
+        "name": "b7",
+        "piece": {
+          "type": "pawn",
+          "color": "black"
+        }
+      },
+      {
+        "name": "c7",
+        "piece": {
+          "type": "pawn",
+          "color": "black"
+        }
+      },
+      {
+        "name": "d7",
+        "piece": {
+          "type": "pawn",
+          "color": "black"
+        }
+      },
+      {
+        "name": "e7",
+        "piece": {
+          "type": "pawn",
+          "color": "black"
+        }
+      },
+      {
+        "name": "f7",
+        "piece": {
+          "type": "pawn",
+          "color": "black"
+        }
+      },
+      {
+        "name": "g7",
+        "piece": {
+          "type": "pawn",
+          "color": "black"
+        }
+      },
+      {
+        "name": "h7",
+        "piece": {
+          "type": "pawn",
+          "color": "black"
+        }
+      },
+      {
+        "name": "a1",
+        "piece": {
+          "type": "rook",
+          "color": "white"
+        }
+      },
+      {
+        "name": "b1",
+        "piece": {
+          "type": "knight",
+          "color": "white"
+        }
+      },
+      {
+        "name": "c1",
+        "piece": {
+          "type": "bishop",
+          "color": "white"
+        }
+      },
+      {
+        "name": "d1",
+        "piece": {
+          "type": "queen",
+          "color": "white"
+        }
+      },
+      {
+        "name": "e1",
+        "piece": {
+          "type": "king",
+          "color": "white"
+        }
+      },
+      {
+        "name": "f1",
+        "piece": {
+          "type": "bishop",
+          "color": "white"
+        }
+      },
+      {
+        "name": "g1",
+        "piece": {
+          "type": "knight",
+          "color": "white"
+        }
+      },
+      {
+        "name": "h1",
+        "piece": {
+          "type": "rook",
+          "color": "white"
+        }
+      },
+      {
+        "name": "a2",
+        "piece": {
+          "type": "pawn",
+          "color": "white"
+        }
+      },
+      {
+        "name": "b2",
+        "piece": {
+          "type": "pawn",
+          "color": "white"
+        }
+      },
+      {
+        "name": "c2",
+        "piece": {
+          "type": "pawn",
+          "color": "white"
+        }
+      },
+      {
+        "name": "d2",
+        "piece": {
+          "type": "pawn",
+          "color": "white"
+        }
+      },
+      {
+        "name": "e2",
+        "piece": {
+          "type": "pawn",
+          "color": "white"
+        }
+      },
+      {
+        "name": "f2",
+        "piece": {
+          "type": "pawn",
+          "color": "white"
+        }
+      },
+      {
+        "name": "g2",
+        "piece": {
+          "type": "pawn",
+          "color": "white"
+        }
+      },
+      {
+        "name": "h2",
+        "piece": {
+          "type": "pawn",
+          "color": "white"
+        }
+      }
+    ]
+  }
+  

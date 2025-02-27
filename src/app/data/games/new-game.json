@@ -1,0 +1,9 @@
+{
+    "state": {
+        "board": "board-palceholder",
+        "turn": "white",
+        "isCheckMate": false,
+        "isDraw": false,
+        "moveHistory": []    
+    }
+}
